@@ -4,7 +4,7 @@ Generación de taxonomía genómica computacional por dos métodos distintos inc
 
 ## Dataset
 
-La inforamción se obtuvo de la página siguiente [datos](https://ftp.ncbi.nlm.nih.gov/genomes/genbank/)
+La información se obtuvo de la página siguiente [datos](https://ftp.ncbi.nlm.nih.gov/genomes/genbank/)
 
 ## Instalación
 
